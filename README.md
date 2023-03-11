@@ -5,3 +5,4 @@
 ![WordCloud_without_stopWords](https://user-images.githubusercontent.com/74416396/208665421-9f4d1c1d-5e99-4e9f-b536-41d71f99f3ed.png)
 ![BarPlot_NounCategories_Frequencies](https://user-images.githubusercontent.com/74416396/208665446-1a9038f7-2ee4-4542-ac55-6b6d1f5ba678.png)
 ![BarPlot_verbCategories_Frequencies](https://user-images.githubusercontent.com/74416396/208665460-88672975-2f71-481f-b322-f2bb80768fed.png)
+![domains](https://user-images.githubusercontent.com/74416396/224504105-c96b98e4-c169-4d0d-bd88-a2ada95134e8.PNG)
